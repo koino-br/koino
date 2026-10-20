@@ -10,4 +10,16 @@ A direção aprovada em 18/10/2026 prevê **cinco slides individuais, em formato
 
 A linguagem visual usa títulos grandes, composição assimétrica, fotografias humanas em preto e branco, azul em elementos de destaque e bastante espaço livre. Evitar cards carregados ou estética de relatório.
 
-**Status:** as imagens dos cinco slides foram aprovadas na documentação original. Elas ainda não foram transferidas para este repositório público. O arquivo PowerPoint editável segue pendente.
+## Imagens aprovadas
+
+![Slide 1](../assets/slides/slide-01-aprovado.png)
+
+![Slide 2](../assets/slides/slide-02-aprovado.png)
+
+![Slide 3](../assets/slides/slide-03-aprovado.png)
+
+![Slide 4](../assets/slides/slide-04-aprovado.png)
+
+![Slide 5](../assets/slides/slide-05-aprovado.png)
+
+**Status:** cinco imagens transferidas. O PowerPoint editável segue pendente.
